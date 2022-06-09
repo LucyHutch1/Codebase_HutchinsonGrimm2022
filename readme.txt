@@ -1,0 +1,3 @@
+To run the entire workflow for model training and validation, locate the RunFullWorkflow.m file and run it! All instructions and comments can be found within the files. Note that the full dataset will take hours-days to complete, and the parallel computing toolbox is useful to speed up by parallelizing.
+The input data is in the final_tiles folder and the adapted code from Kather 2017 is in the folders subroutines_nd and subroutines_2d.
+Enjoy! 
